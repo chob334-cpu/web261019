@@ -98,3 +98,13 @@ footer {
         gap: 20px;
     }
 }
+
+@media (min-width: 1024px) {
+    .hero {
+        min-height: 60vh;
+    }
+
+    .hero h2 {
+        font-size: 3rem;
+    }
+}
